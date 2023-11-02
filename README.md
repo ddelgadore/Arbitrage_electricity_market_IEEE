@@ -7,7 +7,7 @@ En este repositorio se comparte el código del modelo dinámico utilizado en el 
 ![Graphical_abstract](https://github.com/ddelgadore/arbitrage_IEEE/assets/126531055/1def843b-36d2-49e3-a0a8-2bbedf7c12c7)
 
 ### Instrucciones
-El modelo fue desarrollado en el software de dinámica de sistemas [Powersim Studio 10]([url](https://powersim.com/))
+El modelo fue desarrollado en el software de dinámica de sistemas [Powersim Studio 10](https://powersim.com/)
 
 Se incluyen los siguientes documentos:
 1. Diagrama de niveles y flujos (diagrama)
